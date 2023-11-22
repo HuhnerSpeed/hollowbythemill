@@ -1,8 +1,8 @@
 /* Google Fonts Import Link */
 .container{
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 0;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -34,7 +34,7 @@
   left: 0;
   height: 3px;
   width: 0%;
-  background: #07e007;
+  background: rgb(42,152,66);
   border-radius: 12px;
   transition: all 0.4s ease;
 }

@@ -5,3 +5,18 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
+body {
+  background: rgb(42,152,66);
+  width: 100%;
+  height: 100%;
+}
+
+#logoMain {
+  max-width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  width: 50%;
+}
